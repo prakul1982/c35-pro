@@ -1,1 +1,2 @@
-# c35-pro
+# Virtual-Pet-2
+c35 project
